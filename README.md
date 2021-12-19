@@ -14,7 +14,7 @@ I am also passionate about blogging and have published numerous articles.
 - ⚡ Fun fact: I don't drink coffee
 
 <a href="https://github.com/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub Icon" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub Account" width="30" />
 </a> &ensp;
 <a href="https://twitter.com/hassibmoddasser">
   <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="30" />
@@ -29,13 +29,13 @@ I am also passionate about blogging and have published numerous articles.
   <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30" />
 </a> &ensp;
 <a href="https://hassib.hashnode.dev">
-  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30" />
+  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode Blog" width="30" />
 </a> &ensp;
 <a href="https://dev.to/hassibmoddasser">
   <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="30" />
 </a> &ensp;
 <a href="https://hassib.medium.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium blog" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="30" />
 </a> &ensp;
 
 <br>
