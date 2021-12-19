@@ -68,6 +68,6 @@ I work with many different technologies and languages, but my favorite ones are 
 - [A Comprehensive Guide to String Methods of JavaScript](https://hassib.hashnode.dev/a-comprehensive-guide-to-string-methods-of-javascript)
 - [What is Node.js? — A beginner's introduction to the JavaScript in the Server](https://hassib.hashnode.dev/what-is-nodejs-a-beginners-introduction-to-the-javascript-in-the-server)
 
-## Most used Languages/Tools 
+## Most used Technologies 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassibmoddasser&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
