@@ -13,8 +13,6 @@ I am also passionate about blogging and have published numerous articles.
 - 📫 How to reach me: Twitter DMs
 - ⚡ Fun fact: I don't drink coffee
 
-<br>
-
 <a href="https://github.com/hassibmoddasser">
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub Icon" width="30" />
 </a> &ensp;
@@ -62,7 +60,13 @@ I work with many different technologies and languages, but my favorite ones are 
 <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" alt="Yarn Logo" width="58"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="66"/> &emsp;
 
-<br>
+## Recent articles on Hashnode
+
+- [Understand how to use Clean Architecture in Express JS Applications](https://merlino.agency/blog/clean-architecture-in-express-js-applications)
+- [What is React JS? — An introduction to the "Whats & Whys" of React Library](https://hassib.hashnode.dev/what-is-react-js-an-introduction-to-the-whats-and-whys-of-react-library)
+- [What is JSON? — Everything you need to know about](https://hassib.hashnode.dev/what-is-json-everything-you-need-to-know-about)
+- [A Comprehensive Guide to String Methods of JavaScript](https://hassib.hashnode.dev/a-comprehensive-guide-to-string-methods-of-javascript)
+- [What is Node.js? — A beginner's introduction to the JavaScript in the Server](https://hassib.hashnode.dev/what-is-nodejs-a-beginners-introduction-to-the-javascript-in-the-server)
 
 ## Most used Languages/Tools 
  
