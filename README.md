@@ -6,9 +6,9 @@ I have used many updated tools, technologies, and techniques to solve problems. 
 
 I am also passionate about blogging and have published numerous articles.
 
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning `TypeScript` and `Next.js`
-- 👯 I’m looking to collaborate on open source
+- 🔭 I'm currently working on my portfolio website
+- 🌱 I'm currently learning `TypeScript` and `Next.js`
+- 👯 I'm looking to collaborate on open source
 - 💬 Ask me about `JavaScript`
 - 📫 How to reach me: Twitter DMs
 - ⚡ Fun fact: I don't drink coffee
@@ -42,7 +42,7 @@ I am also passionate about blogging and have published numerous articles.
 
 ## Tech Stack
  
-I work with many different technologies and languages, but my favorite ones are `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `Vercel`, `Node.js`, and `Express JS`.
+I work with many different technologies and languages, but my favorites are `JavaScript`, `React.js`, `Next.js`, `Node.js`, and `Express`.
 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
