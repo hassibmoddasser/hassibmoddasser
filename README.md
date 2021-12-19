@@ -15,14 +15,30 @@ I am also passionate about blogging and have published numerous articles.
 
 <br>
 
-<a href="https://github.com/hassibmoddasser"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub Icon" width="30"/></a> &ensp;
-<a href="https://twitter.com/hassibmoddasser"><img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="30"/></a> &ensp;
-<a href="https://www.linkedin.com/in/hassibmoddasser"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="30"/></a> &ensp;
-<a href="https://www.instagram.com/hassibmoddasser"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> &ensp;
-<a href="https://me.hassibmoddasser.com"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30"/></a> &ensp;
-<a href="https://hassib.hashnode.dev"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> &ensp;
-<a href="https://dev.to/hassibmoddasser"><img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="30"/></a> &ensp;
-<a href="https://hassib.medium.com"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium blog" width="30"/></a> &ensp;
+<a href="https://github.com/hassibmoddasser">
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="GitHub Icon" width="30" />
+</a> &ensp;
+<a href="https://twitter.com/hassibmoddasser">
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="30" />
+</a> &ensp;
+<a href="https://www.linkedin.com/in/hassibmoddasser">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="30" />
+</a> &ensp;
+<a href="https://www.instagram.com/hassibmoddasser">
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30" />
+</a> &ensp;
+<a href="https://me.hassibmoddasser.com">
+  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30" />
+</a> &ensp;
+<a href="https://hassib.hashnode.dev">
+  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30" />
+</a> &ensp;
+<a href="https://dev.to/hassibmoddasser">
+  <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="30" />
+</a> &ensp;
+<a href="https://hassib.medium.com">
+  <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium blog" width="30" />
+</a> &ensp;
 
 <br>
 
@@ -30,12 +46,21 @@ I am also passionate about blogging and have published numerous articles.
  
 I work with many different technologies and languages, but my favorite ones are `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `Vercel`, `Node.js`, and `Express JS`.
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="80" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="80" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="80" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="80"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="120"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="SASS" alt="SASS Logo" width="80" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="70" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="86" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="66" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="66"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="57"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="66"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm Logo" width="140"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" alt="Yarn Logo" width="58"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="66"/> &emsp;
 
 <br>
 
