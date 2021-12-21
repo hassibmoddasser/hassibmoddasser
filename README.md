@@ -1,15 +1,15 @@
 # Hi there 👋, I am Hassib
 
-I am a **Software Engineer** and a Full-Stack Web Developer having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
+I am a **Software Engineer** and a **Full-Stack Web Developer** having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
 
 I have used many updated tools, technologies, and techniques to solve problems. I am focused on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
 I am also passionate about blogging and have published numerous articles.
 
 - 🔭 I'm currently working on my portfolio website
-- 🌱 I'm currently learning `TypeScript` and `Next.js`
+- 🌱 I'm currently learning **TypeScript** and **Next.js**
 - 👯 I'm looking to collaborate on open source
-- 💬 Ask me about `JavaScript`
+- 💬 Ask me about **JavaScript**
 - 📫 How to reach me: Twitter DMs
 - ⚡ Fun fact: I don't drink coffee
 
@@ -40,7 +40,7 @@ I am also passionate about blogging and have published numerous articles.
 
 ## Tech Stack
  
-I work with many different technologies and languages, but my favorites are `JavaScript`, `React.js`, `Next.js`, `Node.js`, and `Express`.
+I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
