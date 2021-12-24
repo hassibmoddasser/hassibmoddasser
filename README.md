@@ -10,8 +10,8 @@ I am also passionate about blogging and have published numerous articles.
 - 🌱 I'm currently learning **TypeScript** and **Next.js**
 - 👯 I'm looking to collaborate on open source
 - 💬 Ask me about **JavaScript**
-- 📫 How to reach me: Twitter DMs
-- ⚡ Fun fact: I don't drink coffee
+- 📫 Reach me through **Twitter DMs** or my **Email Address**
+- ⚡ I write code without drinking coffee
 
 
 <a href="https://www.linkedin.com/in/hassibmoddasser">
