@@ -1,39 +1,42 @@
-# Hi there 👋, I am Hassib
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hassib
 
 I am a **Software Engineer** and a **Full-Stack Web Developer** having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
 
 I have used many updated tools, technologies, and techniques to solve problems. I am focused on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
-I am also passionate about blogging and have published numerous articles.
+I am also passionate about **blogging** and have published numerous articles.
 
-- 🔭 I'm currently working on my portfolio website
-- 🌱 I'm currently learning **TypeScript** and **Next.js**
-- 👯 I'm looking to collaborate on open source
-- 💬 Ask me about **JavaScript**
-- 📫 Reach me through **Twitter DMs** or my **Email Address**
-- ⚡ I write code without drinking coffee
+- 🏢 &nbsp; I'm a freelance **Full-Stack Web Developer** and **Content Creator**
+- 🌱 &nbsp; I'm currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
+- 👯 &nbsp; I'm looking for open source collaboration
+- 💬 &nbsp; Ask me about **Web** and **JavaScript**, I'm happy to help
+- 📫 &nbsp; Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser) or my **Email Address** on my profile
+- ⚡ &nbsp; I write code without drinking coffee
 
+## How to reach me?
+
+Connect with me on these excellent platforms; I would love to talk more :-)
 
 <a href="https://www.linkedin.com/in/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="40" />
 </a> &ensp;
 <a href="https://twitter.com/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="40" />
 </a> &ensp;
 <a href="https://hassib.hashnode.dev">
-  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode Blog" width="30" />
+  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode Blog" width="40" />
 </a> &ensp;
 <a href="https://me.hassibmoddasser.com">
-  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30" />
+  <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="40" />
 </a> &ensp;
 <a href="https://dev.to/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="40" />
 </a> &ensp;
 <a href="https://hassib.medium.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="40" />
 </a> &ensp;
 <a href="https://www.instagram.com/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="40" />
 </a> &ensp;
 
 <br>
@@ -42,21 +45,34 @@ I am also passionate about blogging and have published numerous articles.
  
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="SASS" alt="SASS Logo" width="80" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="70" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="86" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="66" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="66"/> &emsp;
+<img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="57"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="66"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="npm" alt="npm Logo" width="140"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" alt="Yarn Logo" width="58"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &emsp;
+<img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" title="PHP" alt="PHP Logo" width="62"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
+
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" alt="WordPress Logo" width="58"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="SASS" alt="SASS Logo" width="74" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="70" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="80" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" title="npm" alt="npm Logo" width="52"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" alt="Yarn Logo" width="56"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="66"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="52"/> &emsp;
+
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="56"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="56"/> &emsp;
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" /> &ensp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hassibmoddasser&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" width="48%" />
+</p>
 
 ## Recent articles on Hashnode
 
@@ -65,7 +81,3 @@ I work with many different technologies and languages, but my favorites are **Ja
 - [What is JSON? — Everything you need to know about](https://hassib.hashnode.dev/what-is-json-everything-you-need-to-know-about)
 - [A Comprehensive Guide to String Methods of JavaScript](https://hassib.hashnode.dev/a-comprehensive-guide-to-string-methods-of-javascript)
 - [What is Node.js? — A beginner's introduction to the JavaScript in the Server](https://hassib.hashnode.dev/what-is-nodejs-a-beginners-introduction-to-the-javascript-in-the-server)
-
-## Most used Technologies 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassibmoddasser&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
