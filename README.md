@@ -21,7 +21,7 @@ Connect with me on these excellent platforms; I would love to talk more :-)
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="40" />
 </a> &ensp;
 <a href="https://twitter.com/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="42" />
 </a> &ensp;
 <a href="https://hassib.hashnode.dev">
   <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode Blog" width="40" />
@@ -30,7 +30,7 @@ Connect with me on these excellent platforms; I would love to talk more :-)
   <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="40" />
 </a> &ensp;
 <a href="https://dev.to/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="42" />
+  <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="43" />
 </a> &ensp;
 <a href="https://hassib.medium.com">
   <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="40" />
@@ -53,19 +53,14 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &emsp;
 <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" title="PHP" alt="PHP Logo" width="62"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
-
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" alt="WordPress Logo" width="58"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="SASS" alt="SASS Logo" width="74" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="70" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="80" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" title="npm" alt="npm Logo" width="52"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" title="Yarn" alt="Yarn Logo" width="56"/> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="66"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="52"/> &emsp;
-
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="56"/> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="56"/> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="66"/> &emsp;
 
 ## GitHub Stats
 
