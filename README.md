@@ -30,7 +30,7 @@ Connect with me on these excellent platforms; I would love to talk more :-)
   <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="40" />
 </a> &ensp;
 <a href="https://dev.to/hassibmoddasser">
-  <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="42" />
 </a> &ensp;
 <a href="https://hassib.medium.com">
   <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="40" />
