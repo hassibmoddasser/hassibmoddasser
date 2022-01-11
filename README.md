@@ -6,12 +6,12 @@ I have used many updated tools, technologies, and techniques to solve problems. 
 
 I am also passionate about **blogging** and have published numerous articles.
 
-- 🏢 &nbsp; I'm a freelance **Full-Stack Web Developer** and **Content Creator**
-- 🌱 &nbsp; I'm currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
-- 👯 &nbsp; I'm looking for open source collaboration
-- 💬 &nbsp; Ask me about **Web** and **JavaScript**, I'm happy to help
-- 📫 &nbsp; Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser) or my **Email Address** on my profile
-- ⚡ &nbsp; I write code without drinking coffee
+- 🏢 I'm a freelance **Full-Stack Web Developer** and **Content Creator**
+- 🌱 I'm currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
+- 👯 I'm looking for open source collaboration
+- 💬 Ask me about **Web** and **JavaScript**, I'm happy to help
+- 📫 Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser) or my **Email Address** on my profile
+- ⚡ I write code without drinking coffee
 
 ## How to reach me?
 
