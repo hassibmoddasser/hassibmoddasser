@@ -1,6 +1,6 @@
 ![](images/banner.png)
 
-# Hi there <img src="images/wave.gif" width="30px">, I am Hassib
+# Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
 
 I am a **Software Engineer** and a **Full-Stack Web Developer** having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
 
