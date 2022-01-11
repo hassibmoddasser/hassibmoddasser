@@ -1,3 +1,5 @@
+![](images/banner.png)
+
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hassib
 
 I am a **Software Engineer** and a **Full-Stack Web Developer** having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
@@ -42,7 +44,7 @@ I am also passionate about **blogging** and have published numerous articles.
 </p>
 
 ## Tech Stack
- 
+
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 
 <p align="center">
