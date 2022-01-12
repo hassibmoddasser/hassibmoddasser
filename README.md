@@ -71,7 +71,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hassibmoddasser&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" />
 
-## Recent articles on Hashnode
+## Recent articles
 
 - [Understand how to use Clean Architecture in Express JS Applications](https://merlino.agency/blog/clean-architecture-in-express-js-applications)
 - [What is React JS? — An introduction to the "Whats & Whys" of React Library](https://hassib.hashnode.dev/what-is-react-js-an-introduction-to-the-whats-and-whys-of-react-library)
