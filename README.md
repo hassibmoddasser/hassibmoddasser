@@ -49,7 +49,7 @@ I am also passionate about **blogging** and have published numerous articles.
   <a href="https://www.instagram.com/hassibmoddasser">
     <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="36" />
   </a>
-</p>
+</p><br />
 
 ## Tech Stack
 
