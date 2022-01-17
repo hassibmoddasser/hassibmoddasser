@@ -21,6 +21,10 @@ I am also passionate about **blogging** and have published numerous articles.
 
 <br />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p><br />
+
 <p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
 
 <p align="center">
@@ -69,11 +73,6 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hassibmoddasser&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" />
 
 ## Recent articles
 
