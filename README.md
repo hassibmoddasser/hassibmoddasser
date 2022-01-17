@@ -1,5 +1,9 @@
 ![](images/banner.png)
 
+[![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
+[![Updated Badge](https://badges.pufler.dev/updated/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
+
 # Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
 
 I am a **Software Engineer** and a **Full-Stack Web Developer** having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
