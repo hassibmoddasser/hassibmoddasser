@@ -6,9 +6,9 @@
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
 
-I am a **Software Engineer** and a **Full-Stack Web Developer** having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
+I am a **Software Engineer** and a **Full-Stack Web Developer** with more than four years of professional experience in all phases of small-scale to enterprise-scale projects.
 
-I have used many updated tools, technologies, and techniques to solve problems. I am focused on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
+I used many updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
 I am also passionate about **blogging** and have published numerous articles.
 
@@ -66,7 +66,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" alt="WordPress Logo" width="57"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="80" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS Logo" width="78" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/> &emsp;
