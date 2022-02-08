@@ -77,6 +77,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 ## Recent articles
 
+- [A Step by Step Guide on How to Download a CSV File using Angular](https://merlino.agency/blog/a-step-by-step-guide-on-how-to-download-a-csv-file-using-angular)
 - [Understand how to use Clean Architecture in Express JS Applications](https://merlino.agency/blog/clean-architecture-in-express-js-applications)
 - [What is React JS? — An introduction to the "Whats & Whys" of React Library](https://hassib.hashnode.dev/what-is-react-js-an-introduction-to-the-whats-and-whys-of-react-library)
 - [What is JSON? — Everything you need to know about](https://hassib.hashnode.dev/what-is-json-everything-you-need-to-know-about)
