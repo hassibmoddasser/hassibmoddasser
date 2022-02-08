@@ -35,10 +35,10 @@ I am also passionate about **blogging** and have published numerous articles.
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="38" />
   </a> &ensp;
   <a href="https://hassib.hashnode.dev">
-    <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode Blog" width="36" />
+    <img src="images/hashnode.png" title="Hashnode" alt="Hashnode Blog" width="36" />
   </a> &ensp;
   <a href="https://me.hassibmoddasser.com">
-    <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase" width="36" />
+    <img src="images/showwcase.png" title="Showwcase" alt="Showwcase" width="36" />
   </a> &ensp;
   <a href="https://dev.to/hassibmoddasser">
     <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="39" />
