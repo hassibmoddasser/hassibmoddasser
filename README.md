@@ -5,7 +5,7 @@
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
 
-I am a **Software Engineer** and a **Full-Stack Web Developer** with more than four years of professional experience in all phases of small-scale to enterprise-scale projects.
+I am a **Software Craftsman** who is heavily into **Full-Stack Web Development** and **Testing** with more than four years of professional experience building projects using updated tools, technologies, and agile methodologies.
 
 I used many updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
