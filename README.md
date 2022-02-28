@@ -5,9 +5,9 @@
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
 
-I am a **Software Craftsman** who is heavily into **Full-Stack Web Development** and **Testing** with more than four years of professional experience building projects using updated tools, technologies, and agile methodologies.
+I am a **Software Craftsman** who is heavily into **Full-Stack Web Development** and **Testing** with more than four years of professional experience building robust systems and scalable customer-focused products using cutting-edge technologies.
 
-I used many updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
+I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
 I am also passionate about **blogging** and have published numerous articles.
 
