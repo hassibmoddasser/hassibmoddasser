@@ -15,7 +15,7 @@ I am also passionate about **blogging** and have published numerous articles.
 - 🌱 &nbsp;I'm currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
 - 👯 &nbsp;I'm looking for open source collaboration
 - 💬 &nbsp;Ask me about **Web** and **JavaScript**, I'm happy to help
-- 📫 &nbsp;Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser) or my **Email Address** on my profile
+- 📫 &nbsp;Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser) or [Email](mailto:hassib.moddasser@gmail.com) me
 - ⚡ &nbsp;I write code without drinking coffee
 
 <br />
@@ -24,7 +24,7 @@ I am also passionate about **blogging** and have published numerous articles.
   <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p><br />
 
-<p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
+<p align="center">Connect with me on these excellent platforms; I would love to count you as my ever-growing group of awesome friends</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassibmoddasser">
