@@ -5,17 +5,17 @@
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
 
-I am a **Software Craftsman** who is heavily into **Full-Stack Web Development** and **Technical Writing** with more than four years of professional experience building robust systems and scalable customer-focused products using cutting-edge technologies.
+I am a **Software Engineer** who is heavily into **Full-Stack Web Development** with more than four years of professional experience building robust systems and scalable customer-focused products using cutting-edge technologies.
 
 I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
 
-I am also passionate about **blogging** and have published numerous articles.
+I am passionate about **Technical Writing** and have published numerous articles.
 
-- 🏢 &nbsp;I'm a freelance **Full-Stack Web Developer** and **Content Creator**
-- 🌱 &nbsp;I'm currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
-- 👯 &nbsp;I'm looking for open source collaboration
-- 💬 &nbsp;Ask me about **Web** and **JavaScript**, I'm happy to help
-- 📫 &nbsp;Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser) or [Email](mailto:hassib.moddasser@gmail.com) me
+- 🏢 &nbsp;I'm a freelance Developer and Technical Writer
+- 🌱 &nbsp;Currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
+- 👯 &nbsp;Looking for open source collaboration
+- 💬 &nbsp;Ask me about Web Development and **JavaScript**; I'm happy to help
+- 📫 &nbsp;Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser)
 - ⚡ &nbsp;I write code without drinking coffee
 
 <br />
