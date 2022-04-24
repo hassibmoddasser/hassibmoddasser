@@ -14,7 +14,7 @@ I am passionate about **Technical Writing** and have published numerous articles
 - 🏢 &nbsp;I'm a freelance Developer and Technical Writer
 - 🌱 &nbsp;Currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
 - 👯 &nbsp;Looking for open source collaboration
-- 💬 &nbsp;Ask me about Web Development and **JavaScript**; I'm happy to help
+- 💬 &nbsp;Ask me about **Web Development** and **JavaScript**; I'm happy to help
 - 📫 &nbsp;Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser)
 - ⚡ &nbsp;I write code without drinking coffee
 
