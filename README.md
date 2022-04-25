@@ -1,5 +1,3 @@
-![](images/banner.png)
-
 [![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
 
@@ -19,6 +17,10 @@ I am passionate about **Technical Writing** and have published numerous articles
 - ⚡ &nbsp;I write code without drinking coffee
 
 <br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p><br />
 
 <p align="center">Connect with me on these excellent platforms; I would love to count you as my ever-growing group of awesome friends</p>
 
