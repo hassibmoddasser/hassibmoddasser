@@ -20,10 +20,6 @@ I am passionate about **Technical Writing** and have published numerous articles
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p><br />
-
 <p align="center">Connect with me on these excellent platforms; I would love to count you as my ever-growing group of awesome friends</p>
 
 <p align="center">
