@@ -11,7 +11,7 @@ I used updated tools, technologies, and techniques to solve problems. I focus on
 
 I am passionate about **Technical Writing** and have published numerous articles.
 
-- 🏢 &nbsp;I'm a freelance Developer and Technical Writer
+- 🏢 &nbsp;I'm a Freelance Developer and Technical Writer
 - 🌱 &nbsp;Currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
 - 👯 &nbsp;Looking for open source collaboration
 - 💬 &nbsp;Ask me about **Web Development** and **JavaScript**; I'm happy to help
