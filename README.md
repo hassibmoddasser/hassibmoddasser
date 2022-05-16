@@ -2,6 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
+[![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-2D9CDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassibmoddasser)
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
 
