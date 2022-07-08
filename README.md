@@ -4,52 +4,31 @@
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
 [![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-2D9CDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassibmoddasser)
 
-# Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
+# Hi there, I'm Hassib
 
-I am a **Software Engineer** who is heavily into **Full-Stack Web Development** with more than four years of professional experience building robust systems and scalable customer-focused products using cutting-edge technologies.
+Results-oriented **Software Engineer** with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over **four years of professional experience with international teams** building robust systems and scalable customer-focused products using cutting-edge technologies.
 
-I used updated tools, technologies, and techniques to solve problems. I focus on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
+Passionate about **Technical Writing** and published numerous blogs, which got the **1st rank on Google**. Trying to be a valuable part of any team and believe in team success, growth, and rising together.
 
-I am passionate about **Technical Writing** and have published numerous articles.
+Interested in UXUI, Blockchain, Amazon Web Services, and Google Cloud Platform.
 
-- 🏢 &nbsp;I'm a Freelance Developer and Technical Writer
-- 🌱 &nbsp;Currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
-- 👯 &nbsp;Looking for open source collaboration
-- 💬 &nbsp;Ask me about **Web Development** and **JavaScript**; I'm happy to help
-- 📫 &nbsp;Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser)
-- ⚡ &nbsp;I write code without drinking coffee
+- 🏢 &nbsp;Freelance Developer and Technical Writer
+- 🌱 &nbsp;Currently learning Next.js and Angular
+- 💬 &nbsp;I would be happy to help you learn web development
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p><br />
+## Open to
 
-<p align="center">Connect with me on these excellent platforms; I would love to count you as my ever-growing group of awesome friends</p>
+- Mentorship
+- Freelance projects
+- Sponsorships & paid video chats
+- Promotion oppurtunities
+- Collaborations to build something great
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassibmoddasser">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="36" />
-  </a> &ensp;
-  <a href="https://twitter.com/hassibmoddasser">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="38" />
-  </a> &ensp;
-  <a href="https://hassib.hashnode.dev">
-    <img src="images/hashnode.png" title="Hashnode" alt="Hashnode Blog" width="36" />
-  </a> &ensp;
-  <a href="https://me.hassibmoddasser.com">
-    <img src="images/showwcase.png" title="Showwcase" alt="Showwcase" width="36" />
-  </a> &ensp;
-  <a href="https://dev.to/hassibmoddasser">
-    <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" title="Dev to" alt="DEV to Blog" width="39" />
-  </a> &ensp;
-  <a href="https://hassib.medium.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="36" />
-  </a> &ensp;
-  <a href="https://www.instagram.com/hassibmoddasser">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="36" />
-  </a>
-</p><br />
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/hassibmoddasser)
+
+<br />
 
 ## Tech Stack & Tools
 
@@ -75,10 +54,12 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
 </p>
 
+<br />
+
 ## Recent articles
 
+- [Clean Architecture in ExpressJS Applications](https://merlino.agency/blog/clean-architecture-in-express-js-applications)
 - [A Step by Step Guide on How to Download a CSV File using Angular](https://merlino.agency/blog/a-step-by-step-guide-on-how-to-download-a-csv-file-using-angular)
-- [Understand how to use Clean Architecture in Express JS Applications](https://merlino.agency/blog/clean-architecture-in-express-js-applications)
 - [What is React JS? — An introduction to the "Whats & Whys" of React Library](https://hassib.hashnode.dev/what-is-react-js-an-introduction-to-the-whats-and-whys-of-react-library)
 - [What is JSON? — Everything you need to know about](https://hassib.hashnode.dev/what-is-json-everything-you-need-to-know-about)
 - [A Comprehensive Guide to String Methods of JavaScript](https://hassib.hashnode.dev/a-comprehensive-guide-to-string-methods-of-javascript)
