@@ -16,8 +16,6 @@ Interested in UXUI, Blockchain, Amazon Web Services, and Google Cloud Platform.
 - 🌱 &nbsp;Currently learning Next.js and Angular
 - 💬 &nbsp;I would be happy to help you learn web development
 
-<br />
-
 ## Open to
 
 - Mentorship
@@ -27,8 +25,6 @@ Interested in UXUI, Blockchain, Amazon Web Services, and Google Cloud Platform.
 - Collaborations to build something great
 
 If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/hassibmoddasser)
-
-<br />
 
 ## Tech Stack & Tools
 
@@ -53,8 +49,6 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
 </p>
-
-<br />
 
 ## Recent articles
 
