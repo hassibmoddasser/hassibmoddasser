@@ -19,6 +19,7 @@ Interested in UXUI, Blockchain, Amazon Web Services, and Google Cloud Platform.
 ## Open to
 
 - Mentorship
+- Technical writing
 - Freelance projects
 - Sponsorships & paid video chats
 - Promotion oppurtunities
