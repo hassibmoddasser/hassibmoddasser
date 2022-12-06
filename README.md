@@ -8,24 +8,25 @@
 
 Results-oriented **Software Engineer** with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over **four years of professional experience with international teams** building robust systems and scalable customer-focused products using cutting-edge technologies.
 
-Passionate about **Technical Writing** and published numerous blogs, which got the **1st rank on Google**. Trying to be a valuable part of any team and believe in team success, growth, and rising together.
+Passionate about **blogging** and have published numerous articles **ranked on the first page of Google**. Trying to be a valuable part of any team and believe in team success, growth, and rising together.
 
-Interested in UXUI, Blockchain, Amazon Web Services, and Google Cloud Platform.
+Interested in UXUI, Blockchain, and Amazon Web Services.
 
-- 🏢 &nbsp;Freelance Developer and Technical Writer
-- 🌱 &nbsp;Currently learning Next.js and Angular
+- 🏢 &nbsp;Software Engineer, Mentor, and Blogger
+- 🌱 &nbsp;Currently learning Next.js, Prisma, and GraphQL
 - 💬 &nbsp;I would be happy to help you learn web development
 
 ## Open to
 
+- Work
 - Mentorship
-- Technical writing
+- Blog writing
 - Freelance projects
-- Sponsorships & paid video chats
 - Promotion oppurtunities
+- Sponsorships & paid video chats
 - Collaborations to build something great
 
-If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/hassibmoddasser)
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/hassibmoddasser) or email me
 
 ## Tech Stack & Tools
 
