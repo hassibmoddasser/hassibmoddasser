@@ -4,6 +4,8 @@
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
 [![LinkedIn Profile Badge](https://img.shields.io/badge/LinkedIn-2D9CDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassibmoddasser)
 
+[![](https://visitcount.itsvg.in/api?id=hassibmoddasser&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 # Hi there, I'm Hassib
 
 Results-oriented **Software Engineer** with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over **four years of professional experience with international teams** building robust systems and scalable customer-focused products using cutting-edge technologies.
