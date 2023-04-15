@@ -15,10 +15,6 @@ Passionate about **blogging** and have published numerous articles **ranked on t
 
 Interested in UXUI, Blockchain, and Amazon Web Services.
 
-- 🏢 &nbsp;Software Engineer, Mentor, and Blogger
-- 🌱 &nbsp;Currently learning Next.js, Prisma, and GraphQL
-- 💬 &nbsp;I would be happy to help you learn web development
-
 ## Open to
 
 - Work
