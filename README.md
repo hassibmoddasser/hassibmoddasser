@@ -25,7 +25,7 @@ Interested in UXUI, Blockchain, and Amazon Web Services.
 - Sponsorships & paid video chats
 - Collaborations to build something great
 
-If you'd love to talk or need help, visit me at [hassibmoddasser.com](https://hassibmoddasser.com) or [DM me on LinkedIn](https://linkedin.com/in/hassibmoddasser).
+If you'd love to talk or need help, visit me at [hassib.co](https://hassib.co) or [DM me on LinkedIn](https://linkedin.com/in/hassibmoddasser).
 
 ## Tech Stack & Tools
 
