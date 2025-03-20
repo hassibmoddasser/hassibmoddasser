@@ -5,8 +5,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231876F3.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/hassibmo)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18576862/hassib-moddasser) 
 
-[![](https://visitcount.itsvg.in/api?id=hassibmoddasser&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 # Hi there, I'm Hassib
 
 Results-oriented Software Engineer with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over five years of professional experience with international teams building robust systems and scalable customer-focused products using cutting-edge technologies.
