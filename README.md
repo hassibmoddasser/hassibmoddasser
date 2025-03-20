@@ -9,7 +9,7 @@
 
 # Hi there, I'm Hassib
 
-Results-oriented **software engineer** with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over **five years of professional experience with international teams** building robust systems and scalable customer-focused products using cutting-edge technologies.
+Results-oriented Software Engineer with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over five years of professional experience with international teams building robust systems and scalable customer-focused products using cutting-edge technologies.
 
 Passionate about blogging and have published numerous articles ranked on the first page of Google. Have worked with various technologies and programming languages; however, my favorites include JavaScript, TypeScript, React.js, Next.js, Angular, Node.js, and Express.js.
 
@@ -23,7 +23,7 @@ Passionate about blogging and have published numerous articles ranked on the fir
 - Sponsorships & paid video chats
 - Collaborations to build something great
 
-If you'd love to talk or need help, visit me at [hassib.co](https://hassib.co) or [DM me on LinkedIn](https://linkedin.com/in/hassibmoddasser).
+If you'd love to talk or need help, visit me at [hassib.co](https://www.hassib.co) or [DM me on LinkedIn](https://linkedin.com/in/hassibmoddasser).
 
 ## Recent blogs
 
