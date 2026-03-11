@@ -1,19 +1,16 @@
 ![](images/banner.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassibmoddasser)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hassibmoddasser) 
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hassibmoddasser) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231876F3.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/hassibmo)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18576862/hassib-moddasser) 
 
 # Hi there, I'm Hassib
 
-Results-oriented Software Engineer with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over five years of professional experience with international teams building robust systems and scalable customer-focused products using cutting-edge technologies.
-
-Passionate about blogging and have published numerous articles ranked on the first page of Google. Have worked with various technologies and programming languages; however, my favorites include JavaScript, TypeScript, React.js, Next.js, Angular, Node.js, and Express.js.
+Results-oriented software engineer with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications and ERP solutions. Over six years of professional experience with international teams building robust systems and scalable customer-focused products using cutting-edge technologies. Passionate about blogging.
 
 ## Open to
 
-- Work
 - Mentorship
 - Blog writing
 - Freelance projects
