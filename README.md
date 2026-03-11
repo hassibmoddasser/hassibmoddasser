@@ -1,7 +1,7 @@
 ![](images/banner.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassibmoddasser)
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hassibmoddasser) 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fhassibmoddasser)
 [![Facebook](https://img.shields.io/badge/Facebook-%231876F3.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/hassibmo)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18576862/hassib-moddasser) 
 
